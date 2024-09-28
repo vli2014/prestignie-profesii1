@@ -1,0 +1,35 @@
+body{
+    background-color: #5175AD;
+}
+.main_header{
+    display: flex;
+    width: 80%;
+    height: 100%;
+    background-color: #39547f;
+    margin: auto;
+    padding: 20px;
+    font-family: 'PT Sans', sans-serif;
+    color: #DAEAFF;
+    justify-content: space-between;
+}
+.menu{
+    font-size: 24px;
+    margin: 0;
+    padding: auto;
+}
+
+a{
+    color: #DAEAFF;
+    text-decoration: none;
+}
+h1{
+    margin: 0;
+    margin-left: 20px;
+}
+
+.main_content{
+    width: 80%;
+    height: 1500px;
+    background-color: #466494;
+    margin: auto;
+}
